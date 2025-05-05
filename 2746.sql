@@ -1,1 +1,0 @@
-select replace(name, 'H1', 'X') as upName from virus
