@@ -1,1 +1,0 @@
-select ROUND(AVG(price), 2) from Products
